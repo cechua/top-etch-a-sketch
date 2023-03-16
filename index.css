@@ -1,0 +1,8 @@
+.gridrow {
+    display:inline-block
+}
+.gridbox {
+    border:1px solid #000000;
+    width:20px;
+    height:20px;
+}
